@@ -1,0 +1,5 @@
+my_name = "summer"
+my_age = 25
+my_color_eyes = "black"
+
+print(f"hello I'm {my_name}, I have {my_age} years in the earth, {my_color_eyes} is my eye color")
